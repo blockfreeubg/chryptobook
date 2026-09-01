@@ -8,4 +8,4 @@ it generates **sha-256** strings until it finds one apart of the blockchain, **i
 
 ## versions
 
-[bitcoin miner v1 (scratch)](https://github.com/blockfreeubg/chryptobook/blob/main/scryptoatch/bitcoin%20miner%20but%20better.html)
+[bitcoin miner v1 (scratch)](https://github.com/blockfreeubg/chryptobook/blob/main/scryptoatch/bitminv1.html)
